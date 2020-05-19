@@ -2,9 +2,10 @@
 Scripts and data used in analyses for “ERAP2 facilitates a cryptic binding motif restricted to HLA-A29”. Preprint url;
 
 This repository contains:
-#Data
 
-#Data sets used for the analyses in the study
+# Data
+
+# Data sets used for the analyses in the study
 
 *Biological replicate 1*
 
