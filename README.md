@@ -1,4 +1,4 @@
-# ERAP2_HLA-A29_peptidome
+# ERAP2 shapes the HLA-A29 peptidome
 Scripts and data used in analyses for “ERAP2 facilitates a cryptic binding motif restricted to HLA-A29”. Preprint url;
 
 This repository contains:
