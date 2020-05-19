@@ -32,6 +32,7 @@ adapted from: http://www.biostat.jhsph.edu/~kkammers/software/eupa/R_guide.html
 
 
 **2. NMDS.R**
+
 An R script written by Sarkizova et al Nature Biotechnology volume 38, pages199–209(2020) and adapted for non-metric multidimensional scaling of peptidome data in this study. This script requires the 948 9-mers from HLA-A29 which is loaded in the script ("HLA_A29_948_9mers.RData)
 
 
