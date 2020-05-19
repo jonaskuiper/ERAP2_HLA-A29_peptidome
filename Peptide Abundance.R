@@ -7,6 +7,7 @@ library(readr)
 library(gplots)
 library(limma)
 library(qvalue)
+library(writexl)
 
 # data preprocessing, load all functions following PMID: 25821719
 source("http://www.biostat.jhsph.edu/~kkammers/software/eupa/source.functions.r")
