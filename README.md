@@ -1,5 +1,5 @@
 # ERAP2 shapes the HLA-A29 peptidome
-Scripts and data used in analyses for “ERAP2 facilitates a cryptic binding motif restricted to HLA-A29”. Preprint url;
+Scripts and data used in analyses for “ERAP2 facilitates a cryptic binding motif of  HLA-A29”. Preprint url;
 
 This repository contains:
 
@@ -22,3 +22,14 @@ https://doi.org/10.5281/zenodo.3833784
 
 4. MS of peptide elution from immunopurification by the pan-class I antibody W6/32 (anti-HLA-ABC)
 https://doi.org/10.5281/zenodo.3833791
+
+# R Scripts
+
+**1.Peptide abundance.R
+An R script based on the workflow for differential expression analysis using limma R package following Kammers and associates. Kammers, K., Cole, R. N., Tiengwe, C. & Ruczinski, I. Detecting Significant Changes in Protein Abundance. EuPA open proteomics 7, 11–19 (2015). 
+adapted from: http://www.biostat.jhsph.edu/~kkammers/software/eupa/R_guide.html
+
+
+
+
+
