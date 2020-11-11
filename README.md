@@ -1,5 +1,5 @@
 # ERAP2 shapes the HLA-A29 peptidome
-Scripts and data used in analyses for “ERAP2 facilitates a cryptic binding motif of  HLA-A29”. Preprint url;
+Scripts and data used in analyses for “ERAP2 facilitates a subpeptidome of Birdshot Uveitis-associated HLA-A29 ”. Preprint url;
 
 This repository contains:
 
@@ -22,6 +22,9 @@ https://doi.org/10.5281/zenodo.3833784
 
 4. MS of peptide elution from immunopurification by the pan-class I antibody W6/32 (anti-HLA-ABC)
 https://doi.org/10.5281/zenodo.3833791
+
+*SNP genotype array data for ERAP2-WT and ERAP2-KO Birdshot cell lines*
+https://doi.org/10.5281/zenodo.4268347
 
 # R Scripts
 
