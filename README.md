@@ -1,6 +1,7 @@
 # ERAP2 shapes the HLA-A29 peptidome
-Scripts and data used in analyses for “ERAP2 facilitates a subpeptidome of Birdshot Uveitis-associated HLA-A29 ”. 
-Preprint url;doi: https://doi.org/10.1101/2020.08.14.250654
+Scripts and data used in analyses for “ERAP2 increases the abundance of a peptide submotif highly selective for the Birdshot Uveitis-associated HLA-A29 ”. 
+Preprint url;https://www.biorxiv.org/content/10.1101/2020.08.14.250654v3
+This paper has been accepted for publication in Front. Immunol. doi: 10.3389/fimmu.2021.634441
 
 This repository contains:
 
